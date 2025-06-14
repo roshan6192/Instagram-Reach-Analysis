@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+scikit-learn
+nbformat
+statsmodels
+streamlit
+#conda activate E:\Projects\Instagram-Reach-Analysis\ienv

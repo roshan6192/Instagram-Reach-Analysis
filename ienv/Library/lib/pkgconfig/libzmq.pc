@@ -1,0 +1,12 @@
+prefix=e:/Projects/Instagram-Reach-Analysis/ienv/Library
+exec_prefix=e:/Projects/Instagram-Reach-Analysis/ienv/Library
+libdir=e:/Projects/Instagram-Reach-Analysis/ienv/Library/lib
+includedir=e:/Projects/Instagram-Reach-Analysis/ienv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
